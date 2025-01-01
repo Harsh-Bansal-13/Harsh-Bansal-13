@@ -19,18 +19,6 @@
 
 ---
 
-## 🌟 Projects  
-
-### 🥝 Fruitswala  
-A full-stack **fruit-selling application**.  
-
-### 💬 Talk-Trail  
-A **real-time chatting application**.  
-
-### 💼 Budget Management Tool  
-Contributed key features like **bulk edit** and **budget item import** during my internship at **Cvent**.
-
----
 
 ## 🛠️ Tech Stack  
 
