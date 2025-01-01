@@ -66,6 +66,13 @@
 
 ---
 
+## 📊 LeetCode Stats  
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Harsh_Bansal_13?theme=dark&ext=heatmap" alt="LeetCode Stats" height="250px" />
+</div>  
+---
+
 
 ### 💬 Let's Connect!  
 <div style="display: flex; gap: 10px; align-items: center;" align="center">
