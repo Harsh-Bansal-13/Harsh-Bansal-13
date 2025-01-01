@@ -37,15 +37,27 @@
 ### **Frameworks and Libraries**
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></a>
+  <a href="https://www.dropwizard.io/" target="_blank"><img src="https://img.shields.io/badge/DropWizard-1E1E1E?style=for-the-badge&logo=dropwizard&logoColor=F8D030" alt="DropWizard" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
+  <a href="https://karatelabs.github.io/karate/" target="_blank"><img src="https://img.shields.io/badge/Karate-00BFB3?style=for-the-badge&logo=karate&logoColor=white" alt="Karate" /></a>
+  <a href="https://site.mockito.org/" target="_blank"><img src="https://img.shields.io/badge/Mockito-003D2A?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" /></a>
+  <a href="https://webdriver.io/" target="_blank"><img src="https://img.shields.io/badge/WebDriver%20IO-1D9EE8?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebDriver I/O" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="https://chakra-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://chakra-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></a>
+  <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white" alt="Socket.io" /></a>
+  <a href="https://mybatis.org/mybatis-3/" target="_blank"><img src="https://img.shields.io/badge/MyBatis-1B4E4E?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" /></a>
+  <a href="https://ejs.co/" target="_blank"><img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B%20STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ STL" /></a>
 </div>
+
 
 ### **Databases**
 <div align="center">
