@@ -80,7 +80,7 @@ Contributed key features like **bulk edit** and **budget item import** during my
 
 
 ### 💬 Let's Connect!  
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center;" align="center">
   <a href="https://harsh-bansal-bice.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
