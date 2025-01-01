@@ -10,11 +10,8 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **CGPA**: **9.34**  
+- 🎓 **CGPA**: **9.31**  
 - 💡 Passionate about building **scalable**, **efficient**, and **user-friendly** applications.  
-- 🏆 **Achievements**:  
-  - Finalist in **Smart India Hackathon** and **Hackshetra**.  
-  - Solved **1200+ coding problems** on [LeetCode](https://leetcode.com/Harsh_Bansal_13/), Codeforces, and HackerRank.  
 - 🛠️ Experienced in **React.js**, **Node.js**, **Dropwizard**, and **MySQL**.  
 
 ---
